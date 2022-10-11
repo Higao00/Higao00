@@ -26,18 +26,18 @@
   
 <div>
     <a href="https://www.linkedin.com/in/higor-henrique-89105a187" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
   
   <a href="https://instagram.com/higao_freitas" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" arget="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
     
   <a href="mailto:freitashigor@hotmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
   <a href="https://portfolio-higor.vercel.app">
-    <img src="https://img.shields.io/badge/-portfolio-%23333?style=for-the-badge&logo=appveyor&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-portfolio-%23333?style=for-the-badge&logo=appveyor&logoColor=white">
   </a>
  </div>
