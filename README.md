@@ -12,9 +12,6 @@
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <a href="https://portfolio-higor.vercel.app/" target="_blank"> 
-       <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://drive.google.com/uc?id=1uSr14wnxf0cY0qfO-SYwPc0uxXuZVkVz">
-    </a>
 </div>
 
 </br>
@@ -38,5 +35,9 @@
     
   <a href="mailto:freitashigor@hotmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  
+  <a href="https://portfolio-higor.vercel.app">
+    <img src="https://img.shields.io/badge/-portfolio-%23333?style=for-the-badge&logo=appveyor&logoColor=white" target="_blank">
   </a>
  </div>
