@@ -12,6 +12,9 @@
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <a href="https://portfolio-higor.vercel.app/" target="_blank"> 
+       <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://drive.google.com/uc?id=1uSr14wnxf0cY0qfO-SYwPc0uxXuZVkVz">
+    </a>
 </div>
 
 </br>
