@@ -51,7 +51,7 @@
  
  <div align="left">
   <a href="https://github.com/higao00">
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=higao00&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true&count_private=true" />
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=higao00&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true&count_private=true" />
   </a>
 </div>
 
