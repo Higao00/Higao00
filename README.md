@@ -4,6 +4,8 @@
 </div>
 
 </br>
+
+## Technologies & Tools
 <div style="display: inline_block">
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -16,23 +18,7 @@
 
 </br>
 
-<div align="left">
-  <a href="https://github.com/higao00">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=higao00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higao00&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
- </br>
- 
- <div align="left">
-  <a href="https://github.com/higao00">
-    <img width="78%" src="https://github-readme-streak-stats.herokuapp.com/?user=higao00&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true&count_private=true" />
-  </a>
-</div>
-
-</br>
-  
+ ## Contact me
 <div>
     <a href="https://www.linkedin.com/in/higor-henrique-89105a187" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -50,7 +36,26 @@
     <img src="https://img.shields.io/badge/-portfolio-%23333?style=for-the-badge&logo=appveyor&logoColor=white">
   </a>
  </div>
- 
+
+</br>
+
+## GitHub Stats
+<div align="left">
+  <a href="https://github.com/higao00">
+    <img height="230" src="https://github-readme-stats.vercel.app/api?username=higao00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higao00&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
+
  </br>
  
+ <div align="left">
+  <a href="https://github.com/higao00">
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=higao00&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true&count_private=true" />
+  </a>
+</div>
+
+ </br>
+ 
+ ## Contribution Graph
   [![Caeden's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=higao00&theme=xcode)](https://github.com/higao00)
