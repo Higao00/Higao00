@@ -42,8 +42,8 @@
 ## GitHub Stats
 <div align="left">
   <a href="https://github.com/higao00">
-    <img height="230" src="https://github-readme-stats.vercel.app/api?username=higao00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higao00&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="210" src="https://github-readme-stats.vercel.app/api?username=higao00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higao00&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
@@ -51,7 +51,7 @@
  
  <div align="left">
   <a href="https://github.com/higao00">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=higao00&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true&count_private=true" />
+    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=higao00&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true&count_private=true" />
   </a>
 </div>
 
