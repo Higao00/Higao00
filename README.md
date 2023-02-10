@@ -56,6 +56,4 @@
 </div>
 
  </br>
- 
- ## Contribution Graph
-  [![Caeden's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=higao00&theme=xcode)](https://github.com/higao00)
+
