@@ -9,19 +9,28 @@
 </br>
 
 ## Technologies & Tools
+
 <div style="display: inline_block">
     <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
     <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+    <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    <img align="center" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+    <img align="center" alt="Vercel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg">
 </div>
 
 </br>
 
-## Contact me
+## 📬 Contact me
 <div>
     <a href="https://www.linkedin.com/in/higor-henrique-89105a187" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -43,18 +52,18 @@
 </br>
 
 ## GitHub Stats
-<!-- 
-  <div align="left">
-    <a href="https://github.com/higao00">
-      <img height="190" src="https://github-readme-stats.vercel.app/api?username=higao00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higao00&layout=compact&langs_count=7&theme=tokyonight"/>
-    </a>
-  </div> 
--->
+<div align="left">
+  <a href="https://github.com/higao00">
+    <img height="190" src="https://github-readme-stats.vercel.app/api?username=higao00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higao00&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div> 
 
- </br>
- 
- <div align="left">
+</br>
+
+## My GitHub Streak
+
+<div align="left">
   <a href="https://github.com/higao00">
     <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=higao00&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true&count_private=true" />
   </a>
