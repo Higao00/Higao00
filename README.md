@@ -1,8 +1,11 @@
 <div style="display: inline_block">
-  <h2>Hello how are you?</h2>
-  <h4> I'm a 23 year old and I've been in the tech market for 4 years, and I'm currently working with React js and Node js. </h4>
-</div>
+  <h2>Hi there! 👋</h2>
+  <h3> I'm a 26-year-old developer with 6 years of experience in the tech industry. I specialize in React.js, Node.js, Next.js, and PHP. </h3> <br />
+  
+  <h3>💻 I enjoy building robust, scalable, and user-friendly applications, seamlessly working across frontend and backend development. With expertise in the most widely used databases and services, I strive to deliver efficient and tailored solutions for every project.<h3 /> <br />
 
+  <h3>🚀 Always curious and eager to learn, I believe in the power of collaboration to turn ideas into reality. Let’s create something amazing together! </h3>
+</div>
 </br>
 
 ## Technologies & Tools
